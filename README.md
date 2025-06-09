@@ -1,4 +1,4 @@
-# I'm Nicholo👋 :godmode:
+# I'm Nicholo👋 
 
 ![final infocard](https://github.com/user-attachments/assets/3515f07a-ae2c-41fa-8341-1e32f361320a)
 
