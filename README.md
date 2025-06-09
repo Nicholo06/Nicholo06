@@ -1,6 +1,6 @@
 # I'm Nicholo👋 :godmode:
 
-![My Info Card](https://github.com/user-attachments/assets/9e429649-372a-4773-be3f-d7d0de968994)
+![final infocard](https://github.com/user-attachments/assets/3515f07a-ae2c-41fa-8341-1e32f361320a)
 
 
 I'm an aspiring **Full-Stack Developer** currently pursuing a **Bachelor of Science in Computer Science** at **University of the East - Manila, Philippines**.
